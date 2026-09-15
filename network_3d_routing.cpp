@@ -2,10 +2,9 @@
 
 using namespace std;
 
-// параметры сети
-const int M = 3; // строки
-const int N = 4; // столбцы
-const int L = 3; // поверхности
+const int M = 3;
+const int N = 4;
+const int L = 3;
 const int TOTAL_NODES = M * N * L;
 
 void idToCoord(int id, int& surface, int& row, int& col) {
