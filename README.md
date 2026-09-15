@@ -28,17 +28,9 @@ A C++ simulation framework for directional routing algorithms in a 3D ring netwo
 | Parameter | Default Value | Description |
 | --- | --- | --- |
 | **Rows ($M$)** | 3 | Number of rows per surface layer
-
- |
 | **Columns ($N$)** | 4 | Number of columns per surface layer
-
- |
 | **Layers ($L$)** | 3 | Number of 2D grid surfaces
-
- |
 | **Total Nodes** | 36 | Total system node capacity ($M \times N \times L$)
-
- |
 
 ## Building & Running
 
